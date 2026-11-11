@@ -20,6 +20,7 @@
   {"year": 1994.7, "when": "1994", "title": "Open Firmware", "text": "IEEE 1275: boot firmware in Forth, from Sun's OpenBoot.", "kind": "note"},
   {"year": 2007.0, "when": "ca. 2007", "title": "JONESFORTH", "text": "A literate Forth: one long, commented x86 file.", "kind": "note"},
   {"year": 2010.0, "when": "ca. 2010", "title": "GreenArrays GA144", "text": "144 Forth computers on one chip.", "kind": "note"},
+  {"year": 2011.5, "when": "2011", "title": "Reva 2011.2", "text": "Ron Aaron's public-domain x86 Forth, after RetroForth: its last release.", "href": "https://github.com/ronaaron/reva", "kind": "note"},
   {"year": 2014.87, "when": "Nov 2014", "title": "Philae lands on a comet", "text": "Run by RTX2010 Forth processors.", "kind": "note"},
   {"year": 2029.5, "when": "Apr-Oct 2026", "title": "COR24 Forth", "text": "Four implementations, selectable in the demo: from all assembly to a kernel generated from Forth that rebuilds itself. It also runs on the COR24-TB FPGA board.", "image": "machines/cor24.webp", "href": "https://sw-embed.github.io/web-sw-cor24-forth/", "demo": "Live demo", "tip": "My COR24 Forth live demo", "kind": "mine"},
   {"year": 2031.5, "when": "Apr 2026", "title": "proto-forth-wasm", "text": "A browser-native Forth, via WebAssembly.", "image": "machines/proto-forth-wasm.webp", "href": "https://sw-vibe-coding.github.io/sw-fth-wasm/", "demo": "Live demo", "tip": "My proto-forth-wasm live demo", "kind": "mine"},
